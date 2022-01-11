@@ -16,7 +16,7 @@ Im Folgenden wird definiert, welche Probleme mit einer neuen Hausregel behoben o
 
 ## Zusammenfassung
 * DSA 4.1 Kämpfe sind zu One-Man-Shows verkommen, und laufen fast immer gleich ab
-* Spieler
+* **Spieler\*innen sind unzufrieden mit der aktuellen Situation** - Kann so nicht weitergehen
 
 ## Lösungsansätze (abstrakt)
 
